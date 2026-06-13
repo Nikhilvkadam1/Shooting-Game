@@ -1,4 +1,4 @@
-# 🎯 GHOST PROTOCOL — Anti-Gravity Sniper Game
+# 🎯 Shooting Game — Anti-Gravity Sniper Game
 
 > **Note:** This project was built as an experiment to try out **Anti-Gravity** (Gemini AI coding assistant) features. It serves as a demo/playground for AI-assisted game development.
 
